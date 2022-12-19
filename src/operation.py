@@ -1,5 +1,3 @@
-
-
 def addition(firstNumber, secNumber):
     print(firstNumber + secNumber)
 
