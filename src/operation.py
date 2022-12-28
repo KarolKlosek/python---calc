@@ -1,5 +1,5 @@
-def addition(firstNumber, secNumber):
-    print(firstNumber + secNumber)
+def addition(*number):
+    print(sum(number))
 
 def subtraction(firstNumber, secNumber):
     print(firstNumber - secNumber)
